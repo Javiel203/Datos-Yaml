@@ -1,0 +1,22 @@
+<misDatos>
+    <nombre>Javier</nombre>
+    <edad>29</edad>
+    <ciudad>Lima</ciudad>
+    <activo>true</activo>
+    <isAdmin>on</isAdmin>
+    <deudas>null</deudas>
+    <hobbies>
+        <item>video juegos</item>
+        <item>viajes</item>
+        <item>trekkeing</item>
+    </hobbies>
+    <comidasFavoritas>
+        <item>arroz con pollo</item>
+        <item>ceviche</item>
+    </comidasFavoritas>
+    <colorFavorito>0x000033</colorFavorito>
+    <profesion>Ing. de Software.
+Con especializacion MS900 
+enfocado en el desarrollo de software</profesion>
+    <experiencia>Soporte Tecnico en Tecsup. Desarrollador en Intrepid Vision. Especialista en herramientas cloud.</experiencia>
+</misDatos>
