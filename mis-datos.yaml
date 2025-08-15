@@ -1,0 +1,12 @@
+misDatos:
+  nombre: Javier
+  edad: 29
+  ciudad: 'Lima'
+  activo: true
+  isAdmin: on
+  deudas: ~
+  hobbies: ['video juegos', 'viajes', 'trekkeing']
+  comidasFavoritas:
+  - arroz con pollo
+  - ceviche
+  colorFavotio: 0x000033
